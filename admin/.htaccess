@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ /bakoel_ban/login.php [R=302,L]

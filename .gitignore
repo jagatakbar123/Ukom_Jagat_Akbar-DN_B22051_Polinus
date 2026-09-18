@@ -1,0 +1,11 @@
+# Konfigurasi database lokal
+config/database.php
+
+# File hasil upload
+uploads/
+
+# File environment
+.env
+
+# File sementara
+*.log
